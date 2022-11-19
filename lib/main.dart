@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     " مسجد جامع بزرگ هرات",
                     style: TextStyle(
                       fontSize: 25,
-                      color: Colors.balck,
+                      color: Colors.white,
                     ),
                   ),
                 ),
